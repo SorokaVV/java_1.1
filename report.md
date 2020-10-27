@@ -26,7 +26,7 @@
  #### Проверка валидных ключей в программе KeyValidator
 
 1. Скачать файл [keyvalidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
-1. Открыть git bush из папки,куда был скачен файл
+1. Открыть git bush из папки,куда был скачан файл
 1. Проверить валидные ключи командой java KeyValidator
 #### Ожидаемый результат
 * Статус OK при проверке всех ключей
@@ -35,7 +35,7 @@
 ### Тест кейс AA-3
 #### Проверка невалидных ключей в программе KeyValidator
 1.  Скачать файл [keyvalidator.class](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class)
-1. Открыть git bush из папки,куда был скачен файл
+1. Открыть git bush из папки,куда был скачан файл
 1. Проверить валидные ключи командой java KeyValidator
 #### Ожидаемый результат
 * Статус FAIL при проверке всех ключей
